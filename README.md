@@ -22,7 +22,7 @@ A Tinder-like application for property rentals, built with the MERN stack (Mongo
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/dumbanshm/RentSwipe.git)
 cd RentSwipe
 ```
 
